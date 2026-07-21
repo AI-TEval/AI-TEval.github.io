@@ -1,10 +1,10 @@
-# Website
+# Can We Trust AI Evaluation? Workshop Website
 
-This folder follows the same vendored Beautiful Jekyll template structure used by:
+This repository hosts the website for the NeurIPS 2026 workshop:
 
-https://github.com/mathai2025/mathai2025.github.io
+**Can We Trust AI Evaluation? Robustness, Causality, and Risk in Modern AI Assessment**
 
-The template files are kept locally in `_layouts/`, `_includes/`, `css/`, and `js/`, matching the MATH-AI style. Workshop-specific content lives in:
+The site is built with Jekyll and uses vendored template files in `_layouts/`, `_includes/`, `css/`, and `js/`. Workshop-specific content lives in:
 
 - `_config.yml`
 - `index.md`
