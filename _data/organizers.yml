@@ -1,0 +1,35 @@
+hanxun_huang:
+  name: "Hanxun Huang"
+  url: "https://hanxunh.github.io"
+  affiliation: "University of Melbourne"
+  img: "people/hanxun-huang-cropped.webp"
+
+barbara_tarantino:
+  name: "Barbara Tarantino"
+  url: "https://scholar.google.com/citations?user=tR4KUwIAAAAJ&hl=it"
+  affiliation: "University of Pavia"
+  img: "people/barbara-tarantino.jpg"
+
+paolo_giudici:
+  name: "Paolo Giudici"
+  url: "https://scholar.google.com/citations?user=ogeVB1kAAAAJ&hl=en"
+  affiliation: "University of Pavia"
+  img: "people/paolo-giudici.jpg"
+
+xingjun_ma:
+  name: "Xingjun Ma"
+  url: "http://xingjunma.com"
+  affiliation: "Fudan University"
+  img: "people/xingjun-ma.jpg"
+
+eduard_hovy:
+  name: "Eduard Hovy"
+  url: "https://findanexpert.unimelb.edu.au/profile/887453-eduard-hovy"
+  affiliation: "University of Melbourne"
+  img: "people/eduard-hovy.jpg"
+
+sarah_erfani:
+  name: "Sarah M. Erfani"
+  url: "https://findanexpert.unimelb.edu.au/profile/639922-sarah-monazam-erfani"
+  affiliation: "University of Melbourne"
+  img: "people/sarah-erfani.jpg"

@@ -1,0 +1,120 @@
+# --- General options --- #
+
+# Name of website
+title: Can We Trust AI Evaluation?
+
+# Short description of your site
+description: AI Evaluation
+
+url: "https://tai-eval.github.io"
+baseurl: ""
+
+# --- Navigation bar options --- #
+
+# List of links in the navigation bar
+navbar-links:
+  Call: "cfp"
+  Speakers & Panelists: "speakers"
+  Papers: "papers"
+  Schedule: "schedule"
+
+# --- Background colour/image options --- #
+
+navbar-col: "#F5F5F5"
+navbar-text-col: "#404040"
+navbar-children-col: "#F5F5F5"
+page-col: "#FFFFFF"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#F5F5F5"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
+
+# --- Footer options --- #
+
+author: Organizers of the NeurIPS 2026 Workshop on AI Evaluation
+
+social-network-links:
+  email: "TBA"
+
+share-links-active:
+  twitter: true
+
+url-pretty: "tai-eval.github.io"
+
+# --- Web Statistics Section --- #
+
+#gtag: ""
+#google_analytics: ""
+#gtm: ""
+
+# --- Comments --- #
+
+staticman:
+  repository:
+  branch:
+  endpoint:
+  reCaptcha:
+    siteKey:
+    secret:
+
+# --- Misc --- #
+
+excerpt_length: 50
+title-separator: "-"
+
+# --- Don't need to touch anything below here (but you can if you want) --- #
+
+timezone: "Australia/Melbourne"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 5
+
+kramdown:
+  input: GFM
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true
+      social-share: true
+  - scope:
+      path: ""
+    values:
+      layout: "page"
+      show-avatar: false
+
+link-tags: true
+
+exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Dockerfile
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - Vagrantfile
+  - vendor
+
+prose:
+  rooturl: "_posts"
+  media: "img"
+  ignore:
+    - 404.html
+    - LICENSE
+    - feed.xml
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /css
+    - /img
+    - /js
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap

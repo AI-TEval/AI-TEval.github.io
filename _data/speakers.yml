@@ -1,0 +1,27 @@
+bin_yu:
+  name: "Bin Yu"
+  url: "https://binyu.stat.berkeley.edu"
+  affiliation: "University of California, Berkeley"
+  img: "people/bin-yu.jpg"
+  bio: "Professor Bin Yu leads the Yu Group at UC Berkeley, an interdisciplinary team in Statistics and EECS dedicated to advancing machine learning, artificial intelligence, and veridical data science. Her group develops efficient and interpretable ML/AI methods and theory, ranging from iterative random forests (iRF) and tree-based FIGS to LoRA+ for fine-tuning deep learning and CD-T and SPEX for interpreting deep models. The Yu Group collaborates closely with domain experts in medical AI, genomics, and neuroscience. A member of both the National Academy of Sciences and the American Academy of Arts and Sciences, she has delivered major keynotes, including the 2019 Breiman Lecture at NeurIPS, 2023 IMS Wald Lectures and the COPSS DAAL Lecture (formerly Fisher Lecture). She and her team pioneered the PCS framework (predictability, computability, and stability) for veridical (truthful) data science (VDS), which has become an influential guide for transparent, trustworthy data science and AI."
+
+soheil_feizi:
+  name: "Soheil Feizi"
+  url: "https://www.cs.umd.edu/~sfeizi/"
+  affiliation: "University of Maryland"
+  img: "people/soheil-feizi.jpg"
+  bio: "Dr. Soheil Feizi is an Associate Professor of Computer Science at the University of Maryland, College Park. He is also the Founder of RELAI.ai, a startup focused on continual learning for AI agents. His work focuses on the reliability, safety, and optimization of AI systems. He received his Ph.D. from MIT and was a postdoctoral researcher at Stanford University. Dr. Feizi is a recipient of the 2025 Presidential Early Career Award for Scientists and Engineers (PECASE), the highest honor granted by the U.S. government to early-career scientists and engineers. His honors also include the ONR Young Investigator Award, the NSF CAREER Award, the ARO Early Career Program Award, two best paper awards, the Ernst Guillemin Thesis Award, a teaching award, and more than twenty research awards from federal agencies and industry partners. His research has been featured in The New York Times, The Washington Post, BBC, MIT Technology Review, Bloomberg, and The Wire. In 2024, he testified before the U.S. House Bipartisan Task Force on AI on issues related to AI safety and reliability."
+
+liming_zhu:
+  name: "Liming Zhu"
+  url: "https://liming-zhu.org"
+  affiliation: "CSIRO and University of New South Wales"
+  img: "people/liming-zhu.jpg"
+  bio: "Dr Liming Zhu is a Research Director at CSIRO and former Head of Data61, Australia's national digital and AI research capability, and a conjoint professor at UNSW. He leads research and national initiatives spanning AI engineering, responsible and safe AI, privacy, cybersecurity, digital resilience, and computational platforms. He is internationally recognised for work at the intersection of advanced AI systems, software engineering, national capability, and AI governance. Dr Zhu has contributed to major national and international AI safety, assurance and standards initiatives, including the International AI Safety Report expert process, OECD.AI work on risks and accountability, ISO AI standards, Australia's voluntary AI safety standard, AI assurance guidance, and guidance on watermarking and labelling AI-generated content. Dr Zhu has published over 400 papers and delivered influential keynote talks, including Software Engineering as the Linchpin of Responsible AI at ICSE 2023. His books, Responsible AI: Best Practices for Creating Trustworthy AI Systems and Engineering AI Systems: Architecture and DevOps Essentials, advocate rigorous approaches for building, deploying, operating and governing trustworthy, safe and impactful AI systems."
+
+james_bailey:
+  name: "James Bailey"
+  url: "https://research.monash.edu/en/persons/james-bailey/"
+  affiliation: "Monash University"
+  img: "people/james-bailey.webp"
+  bio: "James Bailey is a Professor and Head of Department of Data Science and Artificial Intelligence at Monash University. He has previously been an Australian Research Council Future Fellow and is a researcher in the field of machine learning and artificial intelligence, including interdisciplinary applications and operational frameworks. His interests particularly relate to the assurance, certification and safety of systems based on machine learning and artificial intelligence. He works on the deployment of AI systems in collaboration with a wide range of industry and government partners."

@@ -1,0 +1,110 @@
+.intro-header .page-heading h1,
+.intro-header .site-heading h1 {
+  letter-spacing: 0;
+  text-shadow: none;
+}
+
+.intro-header .page-heading .page-subheading,
+.intro-header .site-heading .site-subheading {
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+.workshop-meta {
+  color: #555555;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.tagline {
+  margin: 1rem 0 1.5rem;
+  color: #404040;
+  font-weight: 600;
+}
+
+.central-question {
+  margin: 1.2rem 0;
+  padding: 0.8rem 1rem;
+  border-left: 4px solid #006699;
+  background: #f7f9fa;
+  color: #404040;
+  font-size: 1.08rem;
+}
+
+.post-preview {
+  border-bottom: 0;
+}
+
+.post-entry-container {
+  display: block;
+}
+
+.post-heading,
+.page-heading {
+  border-bottom: 1px solid #eeeeee;
+  padding-bottom: 1rem;
+}
+
+.intro-header {
+  margin-bottom: 2rem;
+}
+
+.blog-tags {
+  display: none;
+}
+
+.profile-list {
+  margin: 1.25rem 0 1.75rem;
+}
+
+.profile-row {
+  display: grid;
+  grid-template-columns: minmax(180px, 0.7fr) minmax(220px, 1fr);
+  gap: 0.4rem 1rem;
+  padding: 0.55rem 0;
+  border-bottom: 1px solid #eeeeee;
+}
+
+.profile-name {
+  font-weight: 700;
+}
+
+.profile-affiliation,
+.profile-email {
+  color: #666666;
+}
+
+.profile-email {
+  grid-column: 2;
+  font-size: 0.92rem;
+}
+
+table {
+  width: 100%;
+  margin: 1.5rem 0;
+}
+
+thead th {
+  background: #f7f7f7;
+}
+
+td,
+th {
+  padding: 0.65rem;
+  border: 1px solid #dddddd;
+}
+
+@media (max-width: 640px) {
+  .intro-header .page-heading h1,
+  .intro-header .site-heading h1 {
+    font-size: 2.55rem;
+  }
+
+  .profile-row {
+    grid-template-columns: 1fr;
+  }
+
+  .profile-email {
+    grid-column: 1;
+  }
+}
