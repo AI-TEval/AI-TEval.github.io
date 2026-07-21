@@ -27,7 +27,7 @@ We invite submissions on topics including, but not limited to:
 - **Benchmark and leaderboard auditing:** How do benchmark reuse, contamination, leakage, documentation gaps, lifecycle practice, public incentives, and benchmark-specific optimization affect the trustworthiness of evaluation claims?
 - **Measurement and causal validity:** What construct is an evaluation protocol intended to measure, what ground truth does it rely on, and what causal, structural, or statistical assumptions connect the protocol to the claim?
 - **Stress tests and judge reliability:** How should evaluations assess protocol robustness, ambiguous labels, human-, crowd-, and model-judge reliability, and failure modes in evaluation pipelines?
-- **Application-domain evaluation:** How should evaluation protocols be designed and audited for domain-specific settings such as medicine and healthcare, finance, science, robotics, cybersecurity, education, public-sector decision-making, and other high-stakes applications?
+- **Application-domain evaluation:** How should evaluation protocols be designed and audited for domain-specific settings such as medicine and healthcare, finance, science, robotics, AI agents, cybersecurity, education, public-sector decision-making, and other high-stakes applications?
 - **Deployment risk and governance:** When do offline metrics support real-world model selection, safety claims, monitoring, and deployment decisions, and what decision-aware metrics, fairness--accuracy--risk trade-offs, reporting checklists, auditing guidelines, and deployment criteria are needed?
 
 See the [Call for Papers]({{ site.baseurl }}/cfp/) for details.
