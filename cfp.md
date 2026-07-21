@@ -25,7 +25,7 @@ We invite submissions on topics including, but not limited to:
 - **Deployment risk and governance:** When do offline metrics support real-world model selection, safety claims, monitoring, and deployment decisions, and what decision-aware metrics, fairness--accuracy--risk trade-offs, reporting checklists, auditing guidelines, and deployment criteria are needed?
 
 
-### Important Dates
+### Important Dates (Indicative)
 
 **Paper submission opens:** TBA <br>
 **Paper submission deadline:** August 29, 2026 (AoE) <br>
@@ -46,7 +46,7 @@ Please use `\usepackage[dblblindworkshop]{neurips_2026}` for submission. For acc
 
 All submissions must be submitted as a single PDF through OpenReview. The review process is double-blind, so please ensure that all papers are appropriately anonymized.
 
-Accepted papers will be presented in an in-person poster session, and some will be selected for oral presentation. Accepted papers are to be considered **non-archival**. Submissions need not introduce a new model or improve state-of-the-art performance.
+Accepted papers will be presented in an in-person poster session, and some will be selected for oral presentation. Accepted papers are to be considered **non-archival**.
 
 Submission site: TBA. If you have not already done so, we recommend creating an OpenReview profile as soon as possible, as new profile creation can take up to two weeks in some cases.
 

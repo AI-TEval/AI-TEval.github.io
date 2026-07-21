@@ -32,7 +32,7 @@ We invite submissions on topics including, but not limited to:
 
 See the [Call for Papers]({{ site.baseurl }}/cfp/) for details.
 
-### Important Dates
+### Important Dates (Indicative)
 
 **Paper submission opens:** TBA <br>
 **Paper submission deadline:** August 29, 2026 (AoE) <br>
