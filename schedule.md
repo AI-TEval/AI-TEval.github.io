@@ -39,8 +39,12 @@ use-site-title: true
         <td>Contributed Talks</td>
       </tr>
       <tr>
-        <td style="width: 180px;">11:00 - 12:45</td>
-        <td>Poster Session and Lunch</td>
+        <td style="width: 180px;">11:00 - 12:00</td>
+        <td>Poster Session 1</td>
+      </tr>
+      <tr>
+        <td style="width: 180px;">12:00 - 12:45</td>
+        <td>Lunch Break and Discussion</td>
       </tr>
       <tr>
         <td style="width: 180px;">12:45 - 13:30</td>
@@ -52,7 +56,7 @@ use-site-title: true
       </tr>
       <tr>
         <td style="width: 180px;">14:15 - 15:00</td>
-        <td>Poster Session</td>
+        <td>Poster Session 2</td>
       </tr>
       <tr>
         <td style="width: 180px;">15:00 - 15:30</td>
