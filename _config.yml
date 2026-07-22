@@ -1,12 +1,12 @@
 # --- General options --- #
 
 # Name of website
-title: Can We Trust AI Evaluation?
+title: AI-TEval | NeurIPS 2026 Workshop
 
 # Short description of your site
 description: AI Evaluation
 
-url: "https://tai-eval.github.io"
+url: "https://ai-teval.github.io"
 baseurl: ""
 
 # --- Navigation bar options --- #
@@ -40,7 +40,7 @@ social-network-links:
 share-links-active:
   twitter: true
 
-url-pretty: "tai-eval.github.io"
+url-pretty: "ai-teval.github.io"
 
 # --- Web Statistics Section --- #
 
