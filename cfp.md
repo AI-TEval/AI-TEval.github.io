@@ -48,7 +48,7 @@ Please use `\usepackage[dblblindworkshop]{neurips_2026}` for submission. For acc
 
 All submissions must be submitted as a single PDF through OpenReview. The review process is double-blind, so please ensure that all papers are appropriately anonymized.
 
-All accepted papers will be presented in an in-person poster session. Selected papers will also be invited for oral presentations. Accepted papers are to be considered **non-archival**.
+All accepted papers will be presented in an in-person poster session. Accepted papers are to be considered **non-archival**.
 
 Submission site: TBA. If you have not already done so, we recommend creating an OpenReview profile as soon as possible, as new profile creation can take up to two weeks in some cases.
 

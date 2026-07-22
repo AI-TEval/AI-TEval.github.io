@@ -34,7 +34,7 @@ We invite submissions on topics including, but not limited to:
 
 See the [Call for Papers]({{ site.baseurl }}/cfp/) for details.
 
-Accepted papers will be presented at the in-person poster session, with selected papers also featured in oral presentations.
+Accepted papers will be presented at the in-person poster session.
 
 ### Important Dates (Indicative)
 
