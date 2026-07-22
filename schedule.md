@@ -67,11 +67,11 @@ use-site-title: true
         <td>Contributed Talks</td>
       </tr>
       <tr>
-        <td style="width: 180px;">16:00 - 17:00</td>
+        <td style="width: 180px;">16:00 - 16:45</td>
         <td>Panel Discussion</td>
       </tr>
       <tr>
-        <td style="width: 180px;">17:00 - 17:15</td>
+        <td style="width: 180px;">16:45 - 17:00</td>
         <td>Closing Remarks</td>
       </tr>
     </table>
