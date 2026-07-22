@@ -57,4 +57,4 @@ Submission site: TBA. If you have not already done so, we recommend creating an 
 
 We are committed to a rigorous and fair evaluation of all submissions. Reviewers must declare conflicts before review assignments are made. Each submission will receive up to three reviews from the program committee. Final decisions will be made by the organizing team, based on the reviews. Organizers will recuse themselves from any submission with which they have a conflict, as identified by OpenReview.
 
-Please email any inquiries to TBA.
+Please email any inquiries to [aiteval2026@gmail.com](mailto:aiteval2026@gmail.com).
