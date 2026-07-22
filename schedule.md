@@ -19,59 +19,55 @@ use-site-title: true
   <div class="row">
     <table class="table">
       <tr>
-        <td style="width: 180px;">08:45 - 09:00</td>
+        <td style="width: 180px;">08:00 - 08:15</td>
         <td>Opening Remarks</td>
       </tr>
       <tr>
-        <td style="width: 180px;">09:00 - 09:45</td>
+        <td style="width: 180px;">08:15 - 09:00</td>
         <td>Invited Talk 1</td>
       </tr>
       <tr>
-        <td style="width: 180px;">09:45 - 10:30</td>
+        <td style="width: 180px;">09:00 - 09:45</td>
         <td>Invited Talk 2</td>
       </tr>
       <tr>
-        <td style="width: 180px;">10:30 - 11:00</td>
+        <td style="width: 180px;">09:45 - 10:15</td>
         <td>Coffee Break and Discussion</td>
       </tr>
       <tr>
-        <td style="width: 180px;">11:00 - 11:45</td>
+        <td style="width: 180px;">10:15 - 11:00</td>
         <td>Contributed Talks</td>
       </tr>
       <tr>
-        <td style="width: 180px;">11:45 - 12:30</td>
-        <td>Poster Session</td>
+        <td style="width: 180px;">11:00 - 12:45</td>
+        <td>Poster Session and Lunch</td>
       </tr>
       <tr>
-        <td style="width: 180px;">12:30 - 13:30</td>
-        <td>Lunch Break</td>
-      </tr>
-      <tr>
-        <td style="width: 180px;">13:30 - 14:15</td>
+        <td style="width: 180px;">12:45 - 13:30</td>
         <td>Invited Talk 3</td>
       </tr>
       <tr>
-        <td style="width: 180px;">14:15 - 15:00</td>
+        <td style="width: 180px;">13:30 - 14:15</td>
         <td>Invited Talk 4</td>
       </tr>
       <tr>
-        <td style="width: 180px;">15:00 - 15:45</td>
+        <td style="width: 180px;">14:15 - 15:00</td>
         <td>Poster Session</td>
       </tr>
       <tr>
-        <td style="width: 180px;">15:45 - 16:15</td>
+        <td style="width: 180px;">15:00 - 15:30</td>
         <td>Coffee Break and Discussion</td>
       </tr>
       <tr>
-        <td style="width: 180px;">16:15 - 16:45</td>
+        <td style="width: 180px;">15:30 - 16:00</td>
         <td>Contributed Talks</td>
       </tr>
       <tr>
-        <td style="width: 180px;">16:45 - 17:15</td>
+        <td style="width: 180px;">16:00 - 17:00</td>
         <td>Panel Discussion</td>
       </tr>
       <tr>
-        <td style="width: 180px;">17:15 - 17:30</td>
+        <td style="width: 180px;">17:00 - 17:15</td>
         <td>Closing Remarks</td>
       </tr>
     </table>
